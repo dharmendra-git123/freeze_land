@@ -1,0 +1,375 @@
+@media screen and (max-width:1199px) {
+    .our_story .discover h2 {
+        font-size: 45px;
+    }
+    .our_story .discover span {
+        font-size: 25px;
+    }
+    .our_story .image img {
+        margin-top: 50px;
+    }
+    .our_story .discover span:before {
+        display: none;
+    }
+    .our_story .discover span:after {
+        display: none;
+    }
+    .order .order-text h2 {
+        font-size: 32px;
+    }
+    .order .order-text p {
+        font-size: 16px;
+    }
+    .customer .customer-text {
+        margin-top: 180px;
+    }
+    .customer .carousel-control-prev, .customer .carousel-control-next {
+        top: 270px;
+    }
+    .customer .customer-text p {
+        max-width: 730px;
+    }
+    .welcome .welcome-title span:after {
+        left: 540px;
+    }
+    .welcome .welcome-title span:before {
+        left: 370px;
+    }
+    .footer_main .f-menu a {
+        letter-spacing: inherit;
+    }
+}
+@media screen and (max-width:1023px) {
+    .welcome .welcome-slider .slider-image img {
+        width: 230px;
+        height: 230px;
+    }
+    .welcome .welcome-title h2 {
+        font-size: 45px;
+    }
+}
+@media screen and (max-width:991px) {
+    .header .header-main nav {
+        display: none;
+    }
+    .banner-main .carousel-text .inter {
+        max-width: 400px;
+    }
+    .banner-main .carousel-text .inter input {
+        width: 80%;
+    }
+    .our_story .image img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+    .order .order-text h2 {
+        font-size: 24px;
+    }
+    .order .book a {
+        margin-top: 14px;
+    }
+    .customer .customer-text p {
+        max-width: 520px;
+        font-size: 14px;
+    }
+    .customer .customer-text h2 {
+        margin-bottom: 40px;
+        font-size: 28px;
+    }
+    .welcome .welcome-title h2 {
+        font-size: 40px;
+    }
+    .welcome .welcome-title span:before {
+        left: 250px;
+    }
+    .welcome .welcome-title span:after {
+        left: 420px;
+    }
+    .welcome .welcome-slider .slider-image img {
+        width: 200px;
+        height: 200px;
+    }
+    .welcome .welcome-slider .slider-image span {
+        font-size: 20px;
+    }
+    .welcome .welcome-slider .slider-image {
+        padding: 0 0;
+    }
+    .welcome .welcome-slider .slick-prev.slick-arrow {
+        left: 43%;
+    }
+    .welcome .welcome-slider .slick-arrow {
+        right: 43%;
+    }
+    .inquiry {
+        display: inherit;
+    }
+    .inquiry .contact button {
+        margin: 0 0   0 0;
+        float: inherit;
+    }
+    .inquiry .contact .form-group input {
+        width: 100%;
+    }
+    .inquiry .contact .form-group {
+        width: 100%;
+        max-width: inherit;
+    }
+    .inquiry .contact .form-group textarea {
+        width: 100%;
+    }
+    .inquiry .contact h3 {
+        text-align: center;
+        margin: 0;
+    }
+    
+}
+@media screen and (max-width:767px) {
+    .banner-main .carousel-text h2 {
+        font-size: 26px;
+    }
+    .order .book {
+        text-align: left;
+    }
+    .order {
+        padding: 25px 0px;
+    }
+    .banner-main .carousel-text h2 {
+        font-size: 26px;
+    }
+    .banner-main ol.carousel-indicators li {
+        width: 10px;
+        height: 10px;
+    }
+    .banner-main .carousel-text .inter {
+        max-width: 300px;
+    }
+    .banner-main .carousel-text .inter input {
+        width: 73%;
+        padding: 0 0 0 8px;
+        height: 35px;
+    }
+    .banner-main .carousel-text .inter a {
+        padding: 7px 16px;
+    }
+    .header .header-main .logo img {
+        max-width: 160px;
+    }
+    .header .header-main .icon a img {
+        max-width: 26px;
+    }
+    .our_story .discover h2 {
+        font-size: 30px;
+    }
+    .our_story .discover span {
+        font-size: 18px;
+    }
+    .our_story .discover p {
+        font-size: 15px;
+    }
+    .carousel-control-prev-icon {
+        margin-right: 60px;
+    }
+    .carousel-control-next-icon {
+        margin-left: 60px;
+    }
+    .customer .customer-text h2 {
+        margin-bottom: 10px;
+    } 
+    .customer .customer-text p {
+        max-width: 450px;
+    }
+    .customer .carousel-control-prev, .customer .carousel-control-next {
+        top: 200px;
+    }
+    .welcome .welcome-title span:after {
+        left: 330px;
+        top: 13px;
+    }
+    .welcome .welcome-title span:before {
+        left: 160px;
+        top: 13px;
+    }
+    .welcome .welcome-slider .slick-prev.slick-arrow {
+        left: 38%;
+    } 
+    .welcome-slider .slick-arrow {
+        right: 38%;
+    }
+    .welcome .welcome-title h2 {
+        font-size: 30px;
+    }
+    .welcome .welcome-title span {
+        font-size: 18px;
+    }
+    .welcome .welcome-slider .slider-image span {
+        font-size: 18px;
+        margin-top: 25px;
+    }
+    .news .available {
+        margin-top: 12px;
+    }
+    .news h2 {
+        margin-bottom: 3px;
+    }
+}
+@media screen and (max-width:639px) {
+    .banner-main .carousel-text span {
+        margin-bottom: 5px;
+    }
+    .banner-main .carousel-text span img {
+        max-width: 130px;
+    }
+    .banner-main .carousel-text h2 {
+        font-size: 22px;
+        margin-bottom: 5px;
+    }
+    .banner-main .carousel-text .inter input {
+        width: 73%;
+        height: 29px;
+        font-size: 14px;
+    }
+    .banner-main .carousel-text .inter {
+        width: 270px;
+        box-shadow: 0 0 0 4px rgb(0 0 0 / 30%);
+    }
+    .banner-main .carousel-text .inter a {
+        padding: 6px 16px;
+        font-size: 14px;
+    }
+    .banner-main .carousel-text .inter a:after {
+        top: 7px;
+    }
+    .welcome .welcome-title span:before {
+        left: 165px;
+    }
+    .welcome .welcome-title span:after {
+        left: 324px;
+    }
+    .our-menu h3 {
+        font-size: 35px;
+    }
+}
+@media screen and (max-width:539px) {
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        position: absolute;
+        bottom: -40px;
+    }
+    .carousel-control-prev-icon {
+        left: 400px;
+    }
+    .carousel-control-next-icon {
+        margin-left: 40px;
+    }
+    .customer {
+        background-size: cover;
+        height: 100%;
+    }
+    .customer .customer-text {
+        margin-top: 40px;
+    }
+    .banner-main .carousel-text .inter input {
+        width: 73%;
+    }
+    .welcome .welcome-slider .slider-image img {
+        margin-top: 50px;
+    }
+    .inquiry .contact h3 {
+        font-size: 24px;
+    }
+    .our-menu .menu_image:hover {
+        border: inherit;
+    }
+    .welcome .welcome-title span:before {
+        left: 135px;
+    }
+    .welcome .welcome-title span:after {
+        left: 294px;
+    }
+}
+@media screen and (max-width:479px) {
+    .header .header-main .logo img {
+        max-width: 100px;
+    }
+    .header {
+        padding-top: 10px;
+    }
+    .header .header-main .icon a img {
+        max-width: 20px;
+    }
+    .banner-main .carousel-text span img {
+        max-width: 92px;
+        height: 17px;
+        object-fit: cover;
+    }
+    .banner-main .carousel-text h2 {
+        font-size: 16px;
+    }
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        width: 15px;
+        height: 15px;
+    }
+    .banner-main .carousel-text .inter {
+        max-width: 200px;
+    }
+    .banner-main .carousel-text .inter input {
+        width: 68%;
+        height: 22px;
+        font-size: 12px;
+    }
+    .banner-main .carousel-text .inter a {
+        font-size: 12px;
+        padding: 3px 14px;
+    }
+    .banner-main .carousel-text .inter a:after {
+        top: 3px;
+        border-left: 6px solid;
+        left: -10px;
+    }
+    .banner-main ol.carousel-indicators {
+        bottom: -10px;
+    }
+    .carousel-control-prev-icon {
+        left: 280px;
+    }
+    .carousel-control-next-icon {
+        right: 10px;
+    }
+    .customer .customer-text p {line-height: 18px;}
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        bottom: -20px;
+    }
+    .customer .customer-text img {
+        width: 30px;
+    }
+    .welcome .welcome-title span:before {
+        left: 76px;
+    }
+    .welcome .welcome-title span:after {
+        left: 234px;
+    }
+    .welcome .welcome-slider .slick-prev.slick-arrow {
+        left: 32%;
+    }
+    .welcome .welcome-slider .slick-arrow {
+        right: 32%;
+    }
+    .welcome .welcome-slider .slider-image img {
+        margin-top: 50px;
+    }
+    .inquiry .location h3 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .our-menu h3 {
+        font-size: 30px;
+    }
+    .our-menu p {
+        font-size: 14px;
+    }
+    .our-menu .menu_image {
+        box-shadow: 0 0 8px #ddd;
+        margin-top: 20px;
+    }
+}
